@@ -1,0 +1,3 @@
+Go to the cmd find the orginal chrome path and run this below code and sign it
+
+C:\Program Files\Google\Chrome\Application>chrome.exe --remote-debugging-port=8989 --user-data-dir="M:\Chromeprofile"
